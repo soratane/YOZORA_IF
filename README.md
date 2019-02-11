@@ -2,10 +2,10 @@
 PROJECT FOR TEN NO SEIPPAI
 # photo
 There are some of photos need to rebuild.
-Dev
+Dev:
 The pna files have been analyse to png files.
-org
+org:
 The files which ADVHD can read.
-tools
+tools:
 Some of tools can analyse ADVHD's files.
 Rebuild by myself.
